@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Rolex Submariner",
+        "price": 12000
+    },
+    {
+        "id": 2,
+        "name": "Casio G-Shock GA-2100",
+        "price": 150
+    },
+    {
+        "id": 3,
+        "name": "Apple Watch Series 9",
+        "price": 399
+    },
+    {
+        "id": 4,
+        "name": "Omega Speedmaster Moonwatch",
+        "price": 6000
+    },
+    {
+        "id": 5,
+        "name": "Timex Expedition Scout",
+        "price": 70
+    },
+    {
+        "id": 6,
+        "name": "Fossil Gen 6 Smartwatch",
+        "price": 299
+    }
+]
